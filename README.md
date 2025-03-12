@@ -10,6 +10,7 @@ My journey with computers has led me to develop a passion for cybersecurity, and
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | User authentication, account management, and role-based access control in Python          | Admin-enabled login system|
+| Reverse engineering and malware analysis         | <a href="https://github.com/rohanjrai/Keylogger">Keylogger</a>|
 | Firewall simulation and network security concepts                  | Firewall system prototype|
 | Password validation and complexity checking | Password strength checker|
 | Task management and CRUD operations         | Task manager|
@@ -38,6 +39,7 @@ My journey with computers has led me to develop a passion for cybersecurity, and
 
 ## Projects
 - Account management
+- <a href="https://github.com/rohanjrai/Keylogger">Keylogger</a>
 - Firewall system prototype
 - Password strength checker
 - Task manager
