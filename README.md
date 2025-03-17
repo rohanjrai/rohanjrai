@@ -12,7 +12,7 @@ My journey with computers has led me to develop a passion for cybersecurity, and
 | User authentication, account management, and role-based access control in Python          | Admin-enabled login system|
 | Reverse engineering and malware analysis         | <a href="https://github.com/rohanjrai/Keylogger">Keylogger</a>|
 | Firewall simulation and network security concepts                  | Firewall system prototype|
-| Password validation and complexity checking | Password strength checker|
+| Password validation and complexity checking | <a href="https://github.com/rohanjrai/Password-Strength-Checker">Password strength checker</a>|
 | Task management and CRUD operations         | Task manager|
 
 ## Tools
@@ -41,5 +41,5 @@ My journey with computers has led me to develop a passion for cybersecurity, and
 - Account management
 - <a href="https://github.com/rohanjrai/Keylogger">Keylogger</a>
 - Firewall system prototype
-- Password strength checker
+- <a href="https://github.com/rohanjrai/Password-Strength-Checker">Password strength checker</a>
 - Task manager
