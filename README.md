@@ -13,7 +13,7 @@ My journey with computers has led me to develop a passion for cybersecurity, and
 | Reverse engineering and malware analysis         | <a href="https://github.com/rohanjrai/Keylogger">Keylogger</a>|
 | Firewall simulation and network security concepts                  | Firewall system prototype|
 | Password validation and complexity checking | <a href="https://github.com/rohanjrai/Password-Strength-Checker">Password strength checker</a>|
-| Task management and CRUD operations         | Task manager|
+| Encryption and decryption        | <a href="https://github.com/rohanjrai/Caesar-Cipher">Caesar Cipher</a>|
 
 ## Tools
 ### Network
@@ -42,4 +42,4 @@ My journey with computers has led me to develop a passion for cybersecurity, and
 - <a href="https://github.com/rohanjrai/Keylogger">Keylogger</a>
 - Firewall system prototype
 - <a href="https://github.com/rohanjrai/Password-Strength-Checker">Password strength checker</a>
-- Task manager
+- <a href="https://github.com/rohanjrai/Caesar-Cipher">Caesar Cipher</a>
