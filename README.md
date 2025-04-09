@@ -1,7 +1,7 @@
 # Hello, I'm Rohan!
 <a href="https://www.linkedin.com/in/rohan-rai-8b9011353/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently attending my final year of high school with a profound interest in technology and cybersecurity.
+I have profound interest in technology and cybersecurity.
 
 ## Objective
 My journey with computers has led me to develop a passion for cybersecurity, and I am now eager to work in this field, specifically aiming to join and work alongside the blue team.
